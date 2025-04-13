@@ -1,2 +1,35 @@
+# Archivos compilados
+target/classes/com/estudiantes/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
 target/classes/com/estudiantes/Main.class
 target/classes/com/estudiantes/Estudiante.class
+
+
+# Archivos de IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de Maven
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
