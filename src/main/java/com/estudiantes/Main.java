@@ -6,8 +6,8 @@ public class Main {
         Estudiante estudianteEjemplo = new Estudiante("Juan Pérez", "Programación para Testers");
         estudianteEjemplo.presentarse();
 
-        Estudiante estudianteSantiago = new Estudiante("Santiago Sanchez", "Programación para Testers");
-        estudianteSantiago.presentarse();
+        Estudiante estudiantegSantiago = new Estudiante("Santiago Sanchez", "Programación para Testers");
+        estudiantegSantiago.presentarse();
         
         // Aquí cada uno de los estudiantes agregará sus propias instancias
         // Ejemplo:
