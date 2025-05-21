@@ -10,6 +10,8 @@ public class Main {
         estudiantegSantiago.presentarse();
         Estudiante estudianteMarcelo = new Estudiante("Marcelo Sosa", "Programación para Testers");
         estudianteMarcelo.presentarse();
+        Estudiante estudianteValeria = new Estudiante("Valeria", "Programación para Testers");
+        estudianteValeria.presentarse();
         Estudiante estudianteGaston = new Estudiante("Gaston Lista", "Programación para Testers");
         estudianteGaston.presentarse();
         Estudiante estudianteNicolas = new Estudiante("Nicolas", "Programación para Testers");
