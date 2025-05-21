@@ -20,7 +20,7 @@ public class Main {
         estudianteDario.presentarse();
         Estudiante estudianteFederico = new Estudiante("Federico Garcia", "Programación para Testers");
         estudianteFederico.presentarse();
-        Estudiante estudianteJuanLussich = new Estudiante("Juan Pedro Lussich", "Programación para Testers"), 
+        Estudiante estudianteJuanLussich = new Estudiante("Juan Pedro Lussich", "Programación para Testers");
         estudianteJuanLussich.presentarse();
 
     }
